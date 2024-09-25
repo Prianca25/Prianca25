@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Prianca25
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning ML and AI
-- 💞️ I’m looking to collaborate on Learning and Development in field of Machine Learning, AI, Python.
-- 📫 How to reach me via mail: priyanka@machinemantra.in
+- 💞️ I’m looking to collaborate on Learning and Development in field of Machine Learning, AI, Python
 - Instagram: @machinemantra 
 - YouTube- https://www.youtube.com/c/PriyankaSharmastudyclub 
 
